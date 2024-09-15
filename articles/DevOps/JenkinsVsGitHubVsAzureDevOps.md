@@ -1,9 +1,3 @@
----
-layout: default
-title: Jenkins Vs GitHub Vs AzureDevOps
-parent: AzureDevOps
-nav_order: 1
----
 
 <details open markdown="block">
   <summary>

@@ -1,9 +1,3 @@
----
-layout: default
-title: JSON-DeltaLake-OPG
-parent: MicrosoftFabric
-nav_order: 7
----
 - [Background](#background)
 - [Let's start](#lets-start)
   - [Prepare the Local Files and On-Premises Gateway](#prepare-the-local-files-and-on-premises-gateway)

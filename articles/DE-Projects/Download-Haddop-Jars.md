@@ -1,8 +1,3 @@
----
-layout: default
-title: Download JARs-Apache Maven Repo
-parent: PythonEcosystem
----
 
 
 <img src="images/175533.png" alt="alt text" style="

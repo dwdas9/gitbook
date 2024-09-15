@@ -1,8 +1,3 @@
----
-layout: default
-title: Local Python Code to Rearrange Files in a Azure Blob Container
-parent: PythonEcosystem
----
 
 ### Table of contents
 

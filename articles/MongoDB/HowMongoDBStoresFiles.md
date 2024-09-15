@@ -1,9 +1,3 @@
----
-layout: default
-title: How MongoDB Stores Data
-parent: MongoDB
-nav_order: 1
----
 
 - [Overview](#overview)
   - [How MongoDB would store your normal SQL Data(simple text)?](#how-mongodb-would-store-your-normal-sql-datasimple-text)

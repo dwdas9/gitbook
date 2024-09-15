@@ -1,9 +1,3 @@
----
-layout: default
-title: Pipelines&DataFlows
-parent: MicrosoftFabric
-nav_order: 5
----
 
 - [Data Factory in Microsoft Fabric](#data-factory-in-microsoft-fabric)
   - [Background](#background)

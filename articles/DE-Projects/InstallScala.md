@@ -1,8 +1,3 @@
----
-layout: default
-title: Scala Install
-parent: DE-Projects
----
 - [Installing Scala on Windows](#installing-scala-on-windows)
     - [Download and Install Scala](#download-and-install-scala)
     - [Set Up Environment Variables](#set-up-environment-variables)

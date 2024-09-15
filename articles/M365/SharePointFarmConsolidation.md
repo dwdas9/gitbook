@@ -1,9 +1,3 @@
----
-layout: default
-title: SharePoint Farm Consolidation
-parent: M365
-nav_order: 4
----
 
 - [Introduction](#introduction)
   - [Purpose](#purpose)

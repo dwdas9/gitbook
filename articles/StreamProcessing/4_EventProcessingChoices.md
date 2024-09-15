@@ -1,9 +1,3 @@
----
-layout: default
-title: Stream Processing Product Combination
-parent: StreamProcessing
-nav_order: 1
----
 
 - [How many different Workflows can you have for Real-Time Data Processing?](#how-many-different-workflows-can-you-have-for-real-time-data-processing)
   - [Open-Source Workflow](#open-source-workflow)

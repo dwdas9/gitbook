@@ -1,9 +1,3 @@
----
-layout: default
-title: Project Sparkzure
-parent: DE-Projects
-nav_order: 2
----
 - [Overview](#overview)
   - [How to Connect an local/on-premise Pyspark Setup with Azure Data Lake](#how-to-connect-an-localon-premise-pyspark-setup-with-azure-data-lake)
   - [Method 1: How to rearrange items in Blob storage using an local/on-premise Pyspark \& Hadoop Jars](#method-1-how-to-rearrange-items-in-blob-storage-using-an-localon-premise-pyspark--hadoop-jars)

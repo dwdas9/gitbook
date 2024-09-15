@@ -1,9 +1,3 @@
----
-layout: default
-title: Google Authentication
-parent: Power Platform
-nav_order: 1
----
 ![alt text](images\powerpagesgooglesignin.png)
 
 - [Overview](#overview)

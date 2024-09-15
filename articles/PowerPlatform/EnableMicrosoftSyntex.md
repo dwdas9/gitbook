@@ -1,9 +1,3 @@
----
-layout: default
-title: Enable Microsoft Syntex on your Office 365 tenant
-parent: Power Platform
-nav_order: 1
----
 
 - [Overview](#overview)
   - [Steps to activate Microsoft Syntex](#steps-to-activate-microsoft-syntex)

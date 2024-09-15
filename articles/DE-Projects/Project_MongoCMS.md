@@ -1,9 +1,3 @@
----
-layout: default
-title: CMS using MongoDB
-parent: DE-Projects
-nav_order: 4
----
 - [Building a Simple CMS with MongoDB, Python, and Flask](#building-a-simple-cms-with-mongodb-python-and-flask)
   - [Project Background](#project-background)
   - [Create a MongoDB Container](#create-a-mongodb-container)

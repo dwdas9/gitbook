@@ -1,10 +1,3 @@
----
-layout: default
-title: GitHub Concepts
-parent: AzureDevOps
-nav_order: 1
-has_children: true
----
 
 <details open markdown="block">
   <summary>

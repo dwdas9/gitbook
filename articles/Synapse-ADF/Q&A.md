@@ -1,9 +1,3 @@
----
-layout: default
-title: 100 Synapse FAQs
-parent: Synapse-ADF
-nav_order: 10
----
 
 <details open markdown="block">
   <summary>

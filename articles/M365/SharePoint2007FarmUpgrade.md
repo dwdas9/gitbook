@@ -1,10 +1,4 @@
-﻿---
-layout: default
-title: SharePoint Farm Upgrade
-parent: M365
-nav_order: 2
----
-- [Case Study: SharePoint Farm Design for a Media Company](#case-study-sharepoint-farm-design-for-a-media-company)
+﻿- [Case Study: SharePoint Farm Design for a Media Company](#case-study-sharepoint-farm-design-for-a-media-company)
   - [Background](#background)
   - [Project Overview \& Understanding](#project-overview--understanding)
 - [Current system study](#current-system-study)

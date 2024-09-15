@@ -1,10 +1,3 @@
----
-layout: default
-title: PySpark
-parent: Python Ecosystem
-nav_order: 1
-has_children: true
----
 
 - [Get all session information](#get-all-session-information)
   - [Analyse a dataframe](#analyse-a-dataframe)

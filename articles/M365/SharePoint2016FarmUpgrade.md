@@ -1,9 +1,3 @@
----
-layout: default
-title: SharePoint Farm 2016 Farm Setup
-parent: M365
-nav_order: 3
----
 - [Background](#background)
   - [Project Overview \& Understanding](#project-overview--understanding)
   - [Objectives of Redesign](#objectives-of-redesign)

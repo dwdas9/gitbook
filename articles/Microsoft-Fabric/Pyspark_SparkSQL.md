@@ -1,9 +1,3 @@
----
-layout: default
-title: Pyspark|SparkSQL CheatSheet
-parent: MicrosoftFabric
-nav_order: 2
----
 
 - [Describe Formatted *TableName* ](#describe-formatted-tablename-)
 - [DataFrame from csv](#dataframe-from-csv)

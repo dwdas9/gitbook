@@ -1,9 +1,3 @@
----
-layout: default
-title: Hello Dataverse
-parent: Power Platform
-nav_order: 1
----
 - [What is Dataverse?](#what-is-dataverse)
 - [What are Dataverse verions?](#what-are-dataverse-verions)
 - [Dataverse Storage - behind the scenes](#dataverse-storage---behind-the-scenes)

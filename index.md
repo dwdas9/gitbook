@@ -1,8 +1,3 @@
----
-layout: default
-title: About
-nav_order: 1
----
 
 ![alt text](images\2024-08-13-01-20-44.png)
 # About Me

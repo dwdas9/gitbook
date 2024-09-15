@@ -1,9 +1,3 @@
----
-layout: default
-title: ETL-Load data into Lakehouse - Pyspark Notebook
-parent: MicrosoftFabric
-nav_order: 4
----
 - [Background](#background)
   - [Ways to Ingest Data into Lakehouse](#ways-to-ingest-data-into-lakehouse)
   - [When to choose which method? Microsoft's recommendation.](#when-to-choose-which-method-microsofts-recommendation)

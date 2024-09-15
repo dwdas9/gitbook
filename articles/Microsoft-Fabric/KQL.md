@@ -1,9 +1,3 @@
----
-layout: default
-title: KQL
-parent: MicrosoftFabric
-nav_order: 5
----
 
 - [What is KQL?](#what-is-kql)
   - [How to run KQL query in Fabric?](#how-to-run-kql-query-in-fabric)

@@ -1,9 +1,3 @@
----
-layout: default
-title: ADF-CI-CD
-parent: AzureDevOps
-nav_order: 4
----
 
 
 # ADF -  Dev to PROD using GitHub workflows and Azure Pipelines

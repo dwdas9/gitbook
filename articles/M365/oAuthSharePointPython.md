@@ -1,9 +1,3 @@
----
-layout: default
-title: Python-oAuth-SharePointOnline
-parent: M365
-nav_order: 1
----
 
 - [How to authenticate from your local python setup with SharePoint online](#how-to-authenticate-from-your-local-python-setup-with-sharepoint-online)
   - [Authenticating to SharePoint Online with Username and Password in Python: Challenges with MFA](#authenticating-to-sharepoint-online-with-username-and-password-in-python-challenges-with-mfa)

@@ -1,8 +1,3 @@
----
-layout: default
-title: Validate JSON using Python
-parent: DE-Projects
----
 
 ## Table of Contents
 - [Validating JSON Data with Python and JSON Schema](#validating-json-data-with-python-and-json-schema)

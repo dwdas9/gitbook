@@ -1,9 +1,3 @@
----
-layout: default
-title: [Deprecated]SharePoint Event Receiver
-parent: M365
-nav_order: 1
----
 
 ## SharePoint 2007 Event Receiver Project
 

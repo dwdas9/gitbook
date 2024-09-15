@@ -1,8 +1,3 @@
----
-layout: default
-title: Python - CSV To MSSQL
-parent: DE-Projects
----
 - [Build an MSSQL table from CSV schema, split large CSVs, and populate rows using Pandas.](#build-an-mssql-table-from-csv-schema-split-large-csvs-and-populate-rows-using-pandas)
   - [Part 1: Creating an MSSQL Table from a CSV Schema](#part-1-creating-an-mssql-table-from-a-csv-schema)
   - [Part 2: Splitting the Large CSV into Smaller Chunks](#part-2-splitting-the-large-csv-into-smaller-chunks)

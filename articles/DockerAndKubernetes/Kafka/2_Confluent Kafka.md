@@ -1,9 +1,3 @@
----
-layout: default
-title: Confluent Kafka
-parent: Docker
-nav_order: 2
----
 ## <span style="color: #003366;">Table of Contents</span>
 
 - [Confluent Kafka with KRaft on Docker](#confluent-kafka-with-kraft-on-docker)

@@ -1,9 +1,3 @@
----
-layout: default
-title: Project 1 - ETL Flat Files to MSSQL
-parent: SQL
-nav_order: 1
----
 
 
 <details open markdown="block">

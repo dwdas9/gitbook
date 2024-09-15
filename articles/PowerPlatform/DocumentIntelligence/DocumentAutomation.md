@@ -1,9 +1,3 @@
----
-layout: default
-title: Document automation base kit
-parent: Power Platform
-nav_order: 1
----
 
 - [Background](#background)
 - [How its done traditionally](#how-its-done-traditionally)

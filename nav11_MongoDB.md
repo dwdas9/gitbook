@@ -1,9 +1,3 @@
----
-layout: default
-title: MongoDB
-nav_order: 11
-has_children: true
----
 
 ## What is MongoDB?
 

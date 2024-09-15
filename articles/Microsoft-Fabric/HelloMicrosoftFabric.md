@@ -1,9 +1,3 @@
----
-layout: default
-title: Hello Fabric
-parent: MicrosoftFabric
-nav_order: 1
----
 
 - [Microsoft Fabric What?!](#microsoft-fabric-what)
 - [Let's learn some basics about LakeHouse](#lets-learn-some-basics-about-lakehouse)

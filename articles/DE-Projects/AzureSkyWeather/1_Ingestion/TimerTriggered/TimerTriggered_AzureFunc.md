@@ -1,9 +1,3 @@
----
-layout: default
-title: Part 1B - Using Azure Timer-Triggered Function
-parent: Project AzureSkyWeather
-grand_parent: DE-Projects
----
 
 ## Table of contents
 - [Project AzureSkyWeather. Part 1B: Using Azure Timer-Triggered Function](#project-azureskyweather-part-1b-using-azure-timer-triggered-function)

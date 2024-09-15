@@ -1,9 +1,3 @@
----
-layout: default
-title: Part 1A - Using Azure HTTP-Triggered Function
-parent: Project AzureSkyWeather
-grand_parent: DE-Projects
----
 
 ## Table of Contents
 - [Project AzureSkyWeather. Part 1A: Using Azure HTTP-Triggered Function](#project-azureskyweather-part-1a-using-azure-http-triggered-function)

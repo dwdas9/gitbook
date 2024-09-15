@@ -1,10 +1,3 @@
----
-layout: default
-title: Azure-Pipelines
-parent: AzureDevOps
-nav_order: 2
-has_children: true
----
 
 <details open markdown="block">
   <summary>

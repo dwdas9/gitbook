@@ -1,9 +1,3 @@
----
-layout: default
-title: Real-time Intelligence
-parent: MicrosoftFabric
-nav_order: 5
----
 - [Real-time Intelligence - Microsoft Fabric](#real-time-intelligence---microsoft-fabric)
   - [Core elements of Real-Time Intelligence in Microsoft Fabric](#core-elements-of-real-time-intelligence-in-microsoft-fabric)
     - [Eventhouse](#eventhouse)

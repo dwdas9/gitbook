@@ -1,8 +1,3 @@
----
-layout: default
-title: Azure Functions Quickstart
-nav_order: 2
----
 
 ## Table of Contents
 - [Azure Functions Quickstart - Create, Debug, Deploy, Monitor](#azure-functions-quickstart---create-debug-deploy-monitor)

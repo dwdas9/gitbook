@@ -1,9 +1,3 @@
----
-layout: default
-title: Spark-SQL
-parent: SQL
-nav_order: 3
----
 - [Essential SparkSQL commands](#essential-sparksql-commands)
 - [OPENROWSET - The Powerful Transact-SQL for Data Engineering.](#openrowset---the-powerful-transact-sql-for-data-engineering)
   - [What is OPENROWSET?](#what-is-openrowset)

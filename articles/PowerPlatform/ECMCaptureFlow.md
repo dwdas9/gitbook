@@ -1,9 +1,3 @@
----
-layout: default
-title: Power Automate Or Kofax/Captiva?
-parent: Power Platform
-nav_order: 1
----
 
 - [Overview](#overview)
   - [Traditional method of document capture ](#traditional-method-of-document-capture-)

@@ -1,9 +1,3 @@
----
-layout: default
-title: SharePoint Forms or PowerApps
-parent: M365
-nav_order: 5
----
 
 - [Choosing Power Apps Forms for SharePoint: When and Why?](#choosing-power-apps-forms-for-sharepoint-when-and-why)
 - [The SharePoint Context](#the-sharepoint-context)

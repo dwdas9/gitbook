@@ -1,9 +1,3 @@
----
-layout: default
-title: Building Custom Connectors
-parent: Power Platform
-nav_order: 1
----
 - [Background](#background)
   - [Steps to creating Custom Connectors for Power Platform](#steps-to-creating-custom-connectors-for-power-platform)
   - [Example Action](#example-action)

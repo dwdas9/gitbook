@@ -1,9 +1,3 @@
----
-layout: default
-title: Project 2 - Web Service SSIS Script Task
-parent: SQL
-nav_order: 2
----
 
 
 <details open markdown="block">
