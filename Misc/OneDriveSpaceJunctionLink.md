@@ -40,13 +40,13 @@ A junction link is a type of symbolic link in Windows that acts like an alias fo
 
 3. **Create the Junction Link**:
    - Use the `mklink` command to create the alias. Replace `desired_name` with your custom name and `actual_name` with the full name of your OneDrive folder:
-     
+
      ```cmd
      mklink /J desired_name "actual_name"
      ```
-   
+ 
    - Example for a OneDrive folder named `OneDrive - MyCompany`:
-     
+    
      ```cmd
      mklink /J OneDriveMyCompany "OneDrive - MyCompany"
      ```
@@ -57,12 +57,17 @@ A junction link is a type of symbolic link in Windows that acts like an alias fo
 ---
 
 ### How to Use the Junction Folder
+
 From now on, refer to the junction folder (`OneDriveMyCompany`) instead of the original folder (`OneDrive - MyCompany`). For example:
+
 - In scripts:
+
   ```cmd
   cd C:\Users\YourUsername\OneDriveMyCompany
   ```
+
 - In configuration files:
+
   ```ini
   output_dir = C:\Users\YourUsername\OneDriveMyCompany\Project
   ```
@@ -70,6 +75,7 @@ From now on, refer to the junction folder (`OneDriveMyCompany`) instead of the o
 ---
 
 ### Key Benefits
+
 - **Ease of Use**: You don't need to modify your OneDrive settings or mess with the registry.
 - **Compatibility**: Tools and scripts work seamlessly without worrying about spaces in folder names.
 - **Flexibility**: The original folder name remains unchanged for OneDrive syncing.
@@ -77,5 +83,7 @@ From now on, refer to the junction folder (`OneDriveMyCompany`) instead of the o
 ---
 
 ### Conclusion
-Using a junction link is a quick and efficient way to resolve issues caused by OneDrive folder names with spaces. It saves time, avoids unnecessary complexity, and works across all your tools and scripts. If you're a developer or power user, this simple tweak can make your life much easier!
+
+Using a junction link is a quick and efficient way to resolve issues caused by OneDrive 
+folder names with spaces. It saves time, avoids unnecessary complexity, and works across all your tools and scripts. If you're a developer or power user, this simple tweak can make your life much easier!
 
