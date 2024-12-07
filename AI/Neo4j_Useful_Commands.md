@@ -1,3 +1,5 @@
+# Neo4j Useful Commands
+
 - **MATCH (n) DETACH DELETE n;**
 
     To completely clear all data from your Neo4j database, you can use the following Cypher query:

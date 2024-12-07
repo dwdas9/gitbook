@@ -6,7 +6,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 1. **LangChain**  
+## 1. **LangChain**  
    - **Description**: LangChain is a framework specifically built for constructing applications powered by language models. It facilitates chaining components (like LLMs, tools, and memory) together to build agents.  
    - **Features**: 
      - Modular components like Prompts, Chains, Agents, and Tools.
@@ -18,7 +18,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 2. **LlamaIndex (formerly GPT Index)**  
+## 2. **LlamaIndex (formerly GPT Index)**  
    - **Description**: LlamaIndex provides tools for indexing, querying, and building LLM-based applications on **structured and unstructured data**.  
    - **Features**: 
      - Advanced indexing for data sources like databases, files, and APIs.
@@ -29,7 +29,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 3. **AutoGPT**  
+## 3. **AutoGPT**  
    - **Description**: AutoGPT is an open-source framework for autonomous AI agents that can iterate through tasks with minimal human intervention.  
    - **Features**:
      - **Goal-Oriented Execution**: Agents autonomously plan and execute subtasks.
@@ -40,7 +40,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 4. **Microsoft Autonomous Agents**  
+## 4. **Microsoft Autonomous Agents**  
    - **Description**: Microsoft Azure OpenAI provides tools and frameworks for **autonomous agent design** in enterprise settings.  
    - **Features**:
      - Integration with Azure OpenAI Service and Azure Cognitive Services.
@@ -51,7 +51,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 5. **OpenAI Function Calling + Assistant API**  
+## 5. **OpenAI Function Calling + Assistant API**  
    - **Description**: OpenAI provides an **Assistants API** and **function calling** capability that can help LLMs interact with external APIs and tools.  
    - **Features**:
      - Function calling for APIs, databases, and tools integration.
@@ -62,7 +62,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 6. **Hugging Face Transformers + Agent Ecosystem**  
+## 6. **Hugging Face Transformers + Agent Ecosystem**  
    - **Description**: Hugging Face provides a robust open-source ecosystem for **model hosting** and LLM-based agents.  
    - **Features**:
      - Pre-trained models, including open-source LLMs (LLaMA, Falcon, Mistral).
@@ -73,7 +73,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 7. **Meta's LLaMA and PyTorch Ecosystem**  
+## 7. **Meta's LLaMA and PyTorch Ecosystem**  
    - **Description**: Meta's **LLaMA models** are open-source LLMs integrated into the PyTorch ecosystem for research and production.  
    - **Features**:
      - Lightweight and efficient models (LLaMA 2) for agent development.
@@ -84,7 +84,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 8. **Haystack by deepset**  
+## 8. **Haystack by deepset**  
    - **Description**: Haystack is an open-source NLP framework for building **RAG-based agents** and AI-powered search systems.  
    - **Features**:
      - Modular components for pipelines, retrievers, and readers.
@@ -95,7 +95,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 9. **Anthropic Claude with Tools**  
+## 9. **Anthropic Claude with Tools**  
    - **Description**: Anthropic's Claude integrates tools and APIs to act as an agent. It focuses on safety and human-like reasoning.  
    - **Features**:
      - Tool use and external integrations.
@@ -106,7 +106,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 10. **Google DeepMind AlphaCode and Tools**  
+## 10. **Google DeepMind AlphaCode and Tools**  
    - **Description**: Google DeepMind provides tools for creating agents that perform specific tasks, including coding and reasoning.  
    - **Features**:
      - Combines Google’s AI tools like Gemini and AlphaCode.
@@ -117,7 +117,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### 11. **Cohere RAG and API Tools**  
+## 11. **Cohere RAG and API Tools**  
    - **Description**: Cohere offers powerful APIs for building **retrieval-based agents**.  
    - **Features**:
      - Fast embeddings and dense vector search.
@@ -128,7 +128,7 @@ Below are the most popular ecosystems:
 
 ---
 
-### Let's tabalize the above info
+## Let's tabalize the above info
 
 | **Ecosystem**            | **Key Use Case**                      | **Notable Features**                      |
 |--------------------------|---------------------------------------|------------------------------------------|
