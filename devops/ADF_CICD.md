@@ -1,5 +1,3 @@
-
-
 # ADF -  Dev to PROD using GitHub workflows and Azure Pipelines
 
 Moving your Azure Data Factory from Dev to PROD can be CI/CDed using GitHub Actions Workflows or using Azure DevOps Pipelines.

@@ -1,13 +1,3 @@
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
 # <span style="color: blueviolet;Font-family: Segoe UI, sans-serif;">Getting started with GitHub</span>
 
 ## <span style="color: MediumOrchid;Font-family: Segoe UI, sans-serif;">Repositories, Branches, Push, Pull, Commit</span>
